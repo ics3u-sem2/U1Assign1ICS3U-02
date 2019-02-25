@@ -23,12 +23,13 @@ The generic rubric applies to each question, but the weighting will change sligh
 
 One last note:  Any images or photo’s must be your originals or Common License and acknowledged.  (No Plagiarized images.)
   
-(Basic Programming) - Create a flowchart, then write a program to perform a unit conversion of your own choosing.  Make sure that the program prints an introduction that explains what it does.
+1) 	(Basic Programming) - Create a flowchart, then write a program to perform a unit conversion of your own choosing.  Make sure that the program prints an introduction that explains what it does.
 NOTE: Class examples and examples from the homework readings are not allowed, this should be your original conversion, not something borrowed.
 
 
 2)   Make a flowchart, then write a program that finds the average of a series of numbers entered by the user.  The program will ask the user how many numbers are being entered.  Note: The average should always be a float, even if the user inputs are all ints.
- 
+
+
 4)   Please create a flowchart, and 2 or more functions, to create something impressive with turtle. Use turtle and randomly produce something small on an appropriate background. (School GP please).  Similar, but totally different from the star and flower example your teacher showed you in class and different from the “Spiral graph” like examples in the readings too.
 	  (You may use the random function your teacher used for the star.)
 
@@ -37,11 +38,16 @@ NOTE: Class examples and examples from the homework readings are not allowed, th
 5)   WOW me with your CSV Input/Output knowledge.  Create a flowchart and then write a program that uses any valid csv file you have pulled.  Good sources are from a reliable source (Stats Can, a Univ weather site etc.)  Make sure you document where your CSV file is from.
 
 a. Your csv file must have a minimum of 4 columns and
+
 b. A minimum of 10 rows
-c. You must write out summary data as applicable.  Examples of the functions you may use are; 
-                                         i.	Average (no function, but this is just a “Sum” (a built in function) divided by your row data.
-                                        ii.	Min (it’s a function)  see Example at https://www.tutorialspoint.com/python3/list_min.htm
-                                       iii.	Max (it’s a function)  https://www.tutorialspoint.com/python3/list_max.htm
-                                       iv.	Sub totals for a particular subcategory (ie: province vs Canada, time of year Fall vs. Spring.  This  really does depend upon your data and topic.)
+
+c. You must write out summary data as applicable.  
+
+Examples of the functions you may use are; 
+       i.	Average (no function, but this is just a “Sum” (a built in function) divided by your
+       ii.	Min (it’s a function)  see Example at https://www.tutorialspoint.com/python3/list_min.htm
+       iii.	Max (it’s a function)  https://www.tutorialspoint.com/python3/list_max.htm
+       iv.	Sub totals for a particular subcategory (ie: province vs Canada, time of year Fall vs. Spring.  This  really does depend upon your data and topic.)
+
 d.  Your output should be to both screen and csv file.  Make the output to screen look nice.                  
 Have fun with this one!
